@@ -1,5 +1,4 @@
 describe("About Expects", function() {
-	var expect = chai.expect;
 	
   // We shall contemplate truth by testing reality, via spec expectations.  
   it("should expect true", function() {
